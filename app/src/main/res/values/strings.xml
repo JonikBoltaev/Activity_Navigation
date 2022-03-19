@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ActivityResult</string>
+    <string name="edit">Edit</string>
+    <string name="request_permission">Request Permission</string>
+    <string name="enter_value">Enter value</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+</resources>
